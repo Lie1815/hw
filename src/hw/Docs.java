@@ -12,7 +12,7 @@ public class Docs {
         int docsclients = sc.nextInt();
 
         if( docsclients != docs.length){
-            System.out.println("Ошибка: нехватает документов " );
+            System.out.println("Ошибка: неверное количество документов " );
         } else {
             System.out.println("документы загруженны");
         }

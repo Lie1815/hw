@@ -2,7 +2,7 @@ package hw;
 
 import java.util.Scanner;
 
-public class apartment {
+public class Apartment {
     static int floors = 9;
     static int apartmentPerFloor = 4;
     static String position;
